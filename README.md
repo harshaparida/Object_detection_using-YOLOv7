@@ -1,6 +1,6 @@
 # Object Detection using YOLOv7 🐱🐶🐰
 
-This project demonstrates the implementation of object detection using YOLOv7, showcasing the detection of three classes: cat, dog, and rabbit. This serves as an introductory project to highlight proficiency in utilizing YOLOv7 for object detection tasks.
+This project demonstrates the implementation of object detection using YOLOv7, showcasing the detection of three classes: cat, dog, and rabbit. This serves as an introductory project to highlight proficiency in utilizing YOLOv7 for object detection tasks. The file is in the google drive :- https://drive.google.com/drive/folders/1BlMULBbfc3UINUq1ZYK8Z59uSg97td1M?usp=drive_link
 
 ## Introduction 🚀
 
